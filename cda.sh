@@ -18,8 +18,10 @@ pip install -Iv https://pypi.python.org/packages/source/p/pyparsing/pyparsing-1.
 git clone https://github.com/sbenthall/poll.emic.git
 cd poll.emic
 python setup.py develop
-wget https://gist.githubusercontent.com/sbenthall/d9770699673fa5763e90/raw/fb827c774b6df76a27b2c3d65801044506d339b4/gistfile1.txt
-mv gistfile1.txt config.cfg
+wget https://raw.githubusercontent.com/sbenthall/cda-workshop/master/config.cfg
+wget https://raw.githubusercontent.com/sbenthall/cda-workshop/master/mentionball-@DLabAtBerkeley.gexf
+wget https://raw.githubusercontent.com/sbenthall/cda-workshop/master/mentionball-@sbenthall~berkeley-data-science-3.gexf
+wget https://raw.githubusercontent.com/sbenthall/cda-workshop/master/mentionball-@sbenthall~indian-politics.gexf
 cd ..
 
 git clone https://github.com/sbenthall/bigbang.git
