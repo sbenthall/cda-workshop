@@ -1,0 +1,560 @@
+<gexf version="1.1" xmlns="http://www.gexf.net/1.1draft" xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="0" title="followers_count" type="integer" />
+    </attributes>
+    <nodes>
+      <node id="kvnweb" label="kvnweb">
+        <attvalues>
+          <attvalue for="0" value="424" />
+        </attvalues>
+      </node>
+      <node id="arbesman" label="arbesman">
+        <attvalues>
+          <attvalue for="0" value="4480" />
+        </attvalues>
+      </node>
+      <node id="MooreScientific" label="MooreScientific">
+        <attvalues>
+          <attvalue for="0" value="427" />
+        </attvalues>
+      </node>
+      <node id="modernscientist" label="modernscientist">
+        <attvalues>
+          <attvalue for="0" value="4046" />
+        </attvalues>
+      </node>
+      <node id="carlystrasser" label="carlystrasser">
+        <attvalues>
+          <attvalue for="0" value="1677" />
+        </attvalues>
+      </node>
+      <node id="SciPyConf" label="SciPyConf">
+        <attvalues>
+          <attvalue for="0" value="841" />
+        </attvalues>
+      </node>
+      <node id="davelester" label="davelester">
+        <attvalues>
+          <attvalue for="0" value="3636" />
+        </attvalues>
+      </node>
+      <node id="DLabAtBerkeley" label="DLabAtBerkeley">
+        <attvalues>
+          <attvalue for="0" value="753" />
+        </attvalues>
+      </node>
+      <node id="arnicas" label="arnicas">
+        <attvalues>
+          <attvalue for="0" value="3779" />
+        </attvalues>
+      </node>
+      <node id="alexhanna" label="alexhanna">
+        <attvalues>
+          <attvalue for="0" value="2656" />
+        </attvalues>
+      </node>
+      <node id="petermurrayrust" label="petermurrayrust">
+        <attvalues>
+          <attvalue for="0" value="2556" />
+        </attvalues>
+      </node>
+      <node id="kwbroman" label="kwbroman">
+        <attvalues>
+          <attvalue for="0" value="1090" />
+        </attvalues>
+      </node>
+      <node id="juretriglav" label="juretriglav">
+        <attvalues>
+          <attvalue for="0" value="426" />
+        </attvalues>
+      </node>
+      <node id="seanjtaylor" label="seanjtaylor">
+        <attvalues>
+          <attvalue for="0" value="4424" />
+        </attvalues>
+      </node>
+      <node id="chrismentzel" label="chrismentzel">
+        <attvalues>
+          <attvalue for="0" value="276" />
+        </attvalues>
+      </node>
+      <node id="jiffyclub" label="jiffyclub">
+        <attvalues>
+          <attvalue for="0" value="607" />
+        </attvalues>
+      </node>
+      <node id="DrLabRatOry" label="DrLabRatOry">
+        <attvalues>
+          <attvalue for="0" value="685" />
+        </attvalues>
+      </node>
+      <node id="ekansa" label="ekansa">
+        <attvalues>
+          <attvalue for="0" value="1034" />
+        </attvalues>
+      </node>
+      <node id="davclark" label="davclark">
+        <attvalues>
+          <attvalue for="0" value="280" />
+        </attvalues>
+      </node>
+      <node id="enf" label="enf">
+        <attvalues>
+          <attvalue for="0" value="5952" />
+        </attvalues>
+      </node>
+      <node id="naupakaz" label="naupakaz">
+        <attvalues>
+          <attvalue for="0" value="635" />
+        </attvalues>
+      </node>
+      <node id="cboettig" label="cboettig">
+        <attvalues>
+          <attvalue for="0" value="2213" />
+        </attvalues>
+      </node>
+      <node id="researchremix" label="researchremix">
+        <attvalues>
+          <attvalue for="0" value="4745" />
+        </attvalues>
+      </node>
+      <node id="aculich" label="aculich">
+        <attvalues>
+          <attvalue for="0" value="380" />
+        </attvalues>
+      </node>
+      <node id="tranlib" label="tranlib">
+        <attvalues>
+          <attvalue for="0" value="1561" />
+        </attvalues>
+      </node>
+      <node id="juanshishido" label="juanshishido">
+        <attvalues>
+          <attvalue for="0" value="215" />
+        </attvalues>
+      </node>
+      <node id="npch" label="npch">
+        <attvalues>
+          <attvalue for="0" value="881" />
+        </attvalues>
+      </node>
+      <node id="fonnesbeck" label="fonnesbeck">
+        <attvalues>
+          <attvalue for="0" value="1089" />
+        </attvalues>
+      </node>
+      <node id="treycausey" label="treycausey">
+        <attvalues>
+          <attvalue for="0" value="2685" />
+        </attvalues>
+      </node>
+      <node id="ivanov" label="ivanov">
+        <attvalues>
+          <attvalue for="0" value="991" />
+        </attvalues>
+      </node>
+      <node id="sbenthall" label="sbenthall">
+        <attvalues>
+          <attvalue for="0" value="760" />
+        </attvalues>
+      </node>
+      <node id="DARPA" label="DARPA">
+        <attvalues>
+          <attvalue for="0" value="87357" />
+        </attvalues>
+      </node>
+      <node id="mrgunn" label="mrgunn">
+        <attvalues>
+          <attvalue for="0" value="4721" />
+        </attvalues>
+      </node>
+      <node id="WrightingApril" label="WrightingApril">
+        <attvalues>
+          <attvalue for="0" value="439" />
+        </attvalues>
+      </node>
+      <node id="profjsb" label="profjsb">
+        <attvalues>
+          <attvalue for="0" value="1044" />
+        </attvalues>
+      </node>
+      <node id="rgbkrk" label="rgbkrk">
+        <attvalues>
+          <attvalue for="0" value="588" />
+        </attvalues>
+      </node>
+      <node id="kaythaney" label="kaythaney">
+        <attvalues>
+          <attvalue for="0" value="6890" />
+        </attvalues>
+      </node>
+      <node id="olgabot" label="olgabot">
+        <attvalues>
+          <attvalue for="0" value="726" />
+        </attvalues>
+      </node>
+      <node id="epistemographer" label="epistemographer">
+        <attvalues>
+          <attvalue for="0" value="2425" />
+        </attvalues>
+      </node>
+      <node id="IPythonDev" label="IPythonDev">
+        <attvalues>
+          <attvalue for="0" value="2580" />
+        </attvalues>
+      </node>
+      <node id="xiongcassie" label="xiongcassie">
+        <attvalues>
+          <attvalue for="0" value="581" />
+        </attvalues>
+      </node>
+      <node id="lopezcesarx" label="lopezcesarx">
+        <attvalues>
+          <attvalue for="0" value="42" />
+        </attvalues>
+      </node>
+      <node id="davidwhogg" label="davidwhogg">
+        <attvalues>
+          <attvalue for="0" value="1836" />
+        </attvalues>
+      </node>
+      <node id="thosjleeper" label="thosjleeper">
+        <attvalues>
+          <attvalue for="0" value="382" />
+        </attvalues>
+      </node>
+      <node id="_inundata" label="_inundata">
+        <attvalues>
+          <attvalue for="0" value="2396" />
+        </attvalues>
+      </node>
+      <node id="ellisonbg" label="ellisonbg">
+        <attvalues>
+          <attvalue for="0" value="1534" />
+        </attvalues>
+      </node>
+      <node id="hspter" label="hspter">
+        <attvalues>
+          <attvalue for="0" value="2495" />
+        </attvalues>
+      </node>
+      <node id="ananelson" label="ananelson">
+        <attvalues>
+          <attvalue for="0" value="2846" />
+        </attvalues>
+      </node>
+      <node id="rdhyee" label="rdhyee">
+        <attvalues>
+          <attvalue for="0" value="1541" />
+        </attvalues>
+      </node>
+      <node id="statpumpkin" label="statpumpkin">
+        <attvalues>
+          <attvalue for="0" value="2021" />
+        </attvalues>
+      </node>
+      <node id="kevkoy" label="kevkoy">
+        <attvalues>
+          <attvalue for="0" value="92" />
+        </attvalues>
+      </node>
+      <node id="ctitusbrown" label="ctitusbrown">
+        <attvalues>
+          <attvalue for="0" value="4343" />
+        </attvalues>
+      </node>
+      <node id="petergowen" label="petergowen">
+        <attvalues>
+          <attvalue for="0" value="122" />
+        </attvalues>
+      </node>
+      <node id="NSF" label="NSF">
+        <attvalues>
+          <attvalue for="0" value="489565" />
+        </attvalues>
+      </node>
+      <node id="numfocus" label="numfocus">
+        <attvalues>
+          <attvalue for="0" value="281" />
+        </attvalues>
+      </node>
+      <node id="mappingmashups" label="mappingmashups">
+        <attvalues>
+          <attvalue for="0" value="2329" />
+        </attvalues>
+      </node>
+      <node id="Impactstory" label="Impactstory">
+        <attvalues>
+          <attvalue for="0" value="4113" />
+        </attvalues>
+      </node>
+      <node id="fperez_org" label="fperez_org">
+        <attvalues>
+          <attvalue for="0" value="4734" />
+        </attvalues>
+      </node>
+      <node id="rOpenSci" label="rOpenSci">
+        <attvalues>
+          <attvalue for="0" value="4017" />
+        </attvalues>
+      </node>
+      <node id="MooreFound" label="MooreFound">
+        <attvalues>
+          <attvalue for="0" value="1364" />
+        </attvalues>
+      </node>
+      <node id="oceankidbilly" label="oceankidbilly">
+        <attvalues>
+          <attvalue for="0" value="876" />
+        </attvalues>
+      </node>
+      <node id="maxogden" label="maxogden">
+        <attvalues>
+          <attvalue for="0" value="10610" />
+        </attvalues>
+      </node>
+      <node id="MikeTaptich" label="MikeTaptich">
+        <attvalues>
+          <attvalue for="0" value="86" />
+        </attvalues>
+      </node>
+      <node id="aterrel" label="aterrel">
+        <attvalues>
+          <attvalue for="0" value="9449" />
+        </attvalues>
+      </node>
+      <node id="BrunaLab" label="BrunaLab">
+        <attvalues>
+          <attvalue for="0" value="634" />
+        </attvalues>
+      </node>
+      <node id="dwhly" label="dwhly">
+        <attvalues>
+          <attvalue for="0" value="872" />
+        </attvalues>
+      </node>
+      <node id="PyWorkParty" label="PyWorkParty">
+        <attvalues>
+          <attvalue for="0" value="45" />
+        </attvalues>
+      </node>
+      <node id="danielledai" label="danielledai">
+        <attvalues>
+          <attvalue for="0" value="213" />
+        </attvalues>
+      </node>
+      <node id="djproctor" label="djproctor">
+        <attvalues>
+          <attvalue for="0" value="1234" />
+        </attvalues>
+      </node>
+      <node id="openscience" label="openscience">
+        <attvalues>
+          <attvalue for="0" value="25923" />
+        </attvalues>
+      </node>
+      <node id="peteskomoroch" label="peteskomoroch">
+        <attvalues>
+          <attvalue for="0" value="18733" />
+        </attvalues>
+      </node>
+      <node id="hypothes_is" label="hypothes_is">
+        <attvalues>
+          <attvalue for="0" value="2808" />
+        </attvalues>
+      </node>
+      <node id="SFBART" label="SFBART">
+        <attvalues>
+          <attvalue for="0" value="57463" />
+        </attvalues>
+      </node>
+      <node id="drewconway" label="drewconway">
+        <attvalues>
+          <attvalue for="0" value="9659" />
+        </attvalues>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="DLabAtBerkeley" target="lopezcesarx" weight="1" />
+      <edge id="1" source="DLabAtBerkeley" target="chrismentzel" weight="1" />
+      <edge id="2" source="DLabAtBerkeley" target="epistemographer" weight="1" />
+      <edge id="3" source="DLabAtBerkeley" target="kevkoy" weight="1" />
+      <edge id="4" source="DLabAtBerkeley" target="xiongcassie" weight="1" />
+      <edge id="5" source="DLabAtBerkeley" target="rdhyee" weight="6" />
+      <edge id="6" source="DLabAtBerkeley" target="alexhanna" weight="1" />
+      <edge id="7" source="DLabAtBerkeley" target="treycausey" weight="2" />
+      <edge id="8" source="DLabAtBerkeley" target="_inundata" weight="1" />
+      <edge id="9" source="DLabAtBerkeley" target="danielledai" weight="1" />
+      <edge id="10" source="DLabAtBerkeley" target="fperez_org" weight="4" />
+      <edge id="11" source="DLabAtBerkeley" target="djproctor" weight="2" />
+      <edge id="12" source="DLabAtBerkeley" target="tranlib" weight="2" />
+      <edge id="13" source="DLabAtBerkeley" target="juanshishido" weight="2" />
+      <edge id="14" source="DLabAtBerkeley" target="ivanov" weight="1" />
+      <edge id="15" source="alexhanna" target="petergowen" weight="2" />
+      <edge id="16" source="alexhanna" target="sbenthall" weight="1" />
+      <edge id="17" source="alexhanna" target="thosjleeper" weight="1" />
+      <edge id="18" source="chrismentzel" target="ctitusbrown" weight="3" />
+      <edge id="19" source="chrismentzel" target="_inundata" weight="2" />
+      <edge id="20" source="chrismentzel" target="davidwhogg" weight="1" />
+      <edge id="21" source="chrismentzel" target="DARPA" weight="1" />
+      <edge id="22" source="chrismentzel" target="researchremix" weight="1" />
+      <edge id="23" source="chrismentzel" target="arbesman" weight="2" />
+      <edge id="24" source="chrismentzel" target="djproctor" weight="1" />
+      <edge id="25" source="chrismentzel" target="openscience" weight="1" />
+      <edge id="26" source="chrismentzel" target="MooreScientific" weight="2" />
+      <edge id="27" source="chrismentzel" target="mrgunn" weight="1" />
+      <edge id="28" source="chrismentzel" target="epistemographer" weight="7" />
+      <edge id="29" source="chrismentzel" target="npch" weight="3" />
+      <edge id="30" source="chrismentzel" target="sbenthall" weight="1" />
+      <edge id="31" source="chrismentzel" target="MooreFound" weight="1" />
+      <edge id="32" source="chrismentzel" target="drewconway" weight="2" />
+      <edge id="33" source="tranlib" target="kvnweb" weight="1" />
+      <edge id="34" source="tranlib" target="SFBART" weight="1" />
+      <edge id="35" source="tranlib" target="enf" weight="1" />
+      <edge id="36" source="tranlib" target="MikeTaptich" weight="3" />
+      <edge id="37" source="tranlib" target="carlystrasser" weight="1" />
+      <edge id="38" source="juanshishido" target="mappingmashups" weight="1" />
+      <edge id="39" source="juanshishido" target="treycausey" weight="1" />
+      <edge id="40" source="juanshishido" target="davelester" weight="1" />
+      <edge id="41" source="juanshishido" target="profjsb" weight="1" />
+      <edge id="42" source="juanshishido" target="rdhyee" weight="1" />
+      <edge id="43" source="juanshishido" target="peteskomoroch" weight="1" />
+      <edge id="44" source="juanshishido" target="DLabAtBerkeley" weight="1" />
+      <edge id="45" source="juanshishido" target="fperez_org" weight="1" />
+      <edge id="46" source="treycausey" target="modernscientist" weight="2" />
+      <edge id="47" source="treycausey" target="arnicas" weight="5" />
+      <edge id="48" source="treycausey" target="statpumpkin" weight="1" />
+      <edge id="49" source="treycausey" target="treycausey" weight="1" />
+      <edge id="50" source="treycausey" target="hspter" weight="4" />
+      <edge id="51" source="treycausey" target="seanjtaylor" weight="1" />
+      <edge id="52" source="treycausey" target="jiffyclub" weight="3" />
+      <edge id="53" source="treycausey" target="petergowen" weight="4" />
+      <edge id="54" source="ivanov" target="fperez_org" weight="1" />
+      <edge id="55" source="ivanov" target="aculich" weight="1" />
+      <edge id="56" source="ivanov" target="ivanov" weight="11" />
+      <edge id="57" source="ivanov" target="olgabot" weight="1" />
+      <edge id="58" source="ivanov" target="IPythonDev" weight="4" />
+      <edge id="59" source="ivanov" target="SciPyConf" weight="1" />
+      <edge id="60" source="ivanov" target="ellisonbg" weight="1" />
+      <edge id="61" source="ivanov" target="WrightingApril" weight="1" />
+      <edge id="62" source="ivanov" target="numfocus" weight="1" />
+      <edge id="63" source="ivanov" target="arnicas" weight="1" />
+      <edge id="64" source="ivanov" target="PyWorkParty" weight="1" />
+      <edge id="65" source="ivanov" target="jiffyclub" weight="5" />
+      <edge id="66" source="ivanov" target="kaythaney" weight="1" />
+      <edge id="67" source="ivanov" target="aterrel" weight="1" />
+      <edge id="68" source="ivanov" target="DLabAtBerkeley" weight="1" />
+      <edge id="69" source="ivanov" target="DrLabRatOry" weight="1" />
+      <edge id="70" source="ivanov" target="davclark" weight="4" />
+      <edge id="71" source="ivanov" target="naupakaz" weight="2" />
+      <edge id="72" source="ivanov" target="profjsb" weight="3" />
+      <edge id="73" source="ivanov" target="rgbkrk" weight="3" />
+      <edge id="74" source="ivanov" target="peteskomoroch" weight="1" />
+      <edge id="75" source="epistemographer" target="Impactstory" weight="1" />
+      <edge id="76" source="epistemographer" target="researchremix" weight="2" />
+      <edge id="77" source="epistemographer" target="arbesman" weight="1" />
+      <edge id="78" source="epistemographer" target="rOpenSci" weight="4" />
+      <edge id="79" source="epistemographer" target="carlystrasser" weight="5" />
+      <edge id="80" source="epistemographer" target="maxogden" weight="1" />
+      <edge id="81" source="epistemographer" target="davelester" weight="3" />
+      <edge id="82" source="epistemographer" target="davidwhogg" weight="2" />
+      <edge id="83" source="epistemographer" target="dwhly" weight="1" />
+      <edge id="84" source="epistemographer" target="npch" weight="4" />
+      <edge id="85" source="epistemographer" target="petermurrayrust" weight="1" />
+      <edge id="86" source="epistemographer" target="_inundata" weight="6" />
+      <edge id="87" source="epistemographer" target="ellisonbg" weight="2" />
+      <edge id="88" source="epistemographer" target="djproctor" weight="1" />
+      <edge id="89" source="epistemographer" target="openscience" weight="1" />
+      <edge id="90" source="epistemographer" target="chrismentzel" weight="4" />
+      <edge id="91" source="epistemographer" target="kaythaney" weight="5" />
+      <edge id="92" source="epistemographer" target="rdhyee" weight="2" />
+      <edge id="93" source="epistemographer" target="DLabAtBerkeley" weight="1" />
+      <edge id="94" source="epistemographer" target="DrLabRatOry" weight="1" />
+      <edge id="95" source="epistemographer" target="ekansa" weight="3" />
+      <edge id="96" source="epistemographer" target="ctitusbrown" weight="3" />
+      <edge id="97" source="epistemographer" target="fperez_org" weight="2" />
+      <edge id="98" source="epistemographer" target="hypothes_is" weight="1" />
+      <edge id="99" source="epistemographer" target="mrgunn" weight="1" />
+      <edge id="100" source="epistemographer" target="cboettig" weight="1" />
+      <edge id="101" source="epistemographer" target="drewconway" weight="1" />
+      <edge id="102" source="lopezcesarx" target="lopezcesarx" weight="1" />
+      <edge id="103" source="_inundata" target="Impactstory" weight="6" />
+      <edge id="104" source="_inundata" target="MooreScientific" weight="2" />
+      <edge id="105" source="_inundata" target="epistemographer" weight="2" />
+      <edge id="106" source="_inundata" target="rOpenSci" weight="1" />
+      <edge id="107" source="_inundata" target="MooreFound" weight="2" />
+      <edge id="108" source="_inundata" target="oceankidbilly" weight="1" />
+      <edge id="109" source="_inundata" target="maxogden" weight="4" />
+      <edge id="110" source="_inundata" target="WrightingApril" weight="1" />
+      <edge id="111" source="_inundata" target="carlystrasser" weight="9" />
+      <edge id="112" source="_inundata" target="arnicas" weight="1" />
+      <edge id="113" source="_inundata" target="thosjleeper" weight="1" />
+      <edge id="114" source="_inundata" target="statpumpkin" weight="3" />
+      <edge id="115" source="_inundata" target="fonnesbeck" weight="1" />
+      <edge id="116" source="_inundata" target="petermurrayrust" weight="1" />
+      <edge id="117" source="_inundata" target="kwbroman" weight="10" />
+      <edge id="118" source="_inundata" target="juretriglav" weight="2" />
+      <edge id="119" source="_inundata" target="hspter" weight="19" />
+      <edge id="120" source="_inundata" target="seanjtaylor" weight="1" />
+      <edge id="121" source="_inundata" target="chrismentzel" weight="2" />
+      <edge id="122" source="_inundata" target="ananelson" weight="1" />
+      <edge id="123" source="_inundata" target="ctitusbrown" weight="4" />
+      <edge id="124" source="_inundata" target="fperez_org" weight="1" />
+      <edge id="125" source="_inundata" target="naupakaz" weight="1" />
+      <edge id="126" source="_inundata" target="BrunaLab" weight="3" />
+      <edge id="127" source="_inundata" target="cboettig" weight="3" />
+      <edge id="128" source="_inundata" target="drewconway" weight="1" />
+      <edge id="129" source="rdhyee" target="ctitusbrown" weight="1" />
+      <edge id="130" source="rdhyee" target="PyWorkParty" weight="2" />
+      <edge id="131" source="rdhyee" target="_inundata" weight="1" />
+      <edge id="132" source="rdhyee" target="SciPyConf" weight="3" />
+      <edge id="133" source="rdhyee" target="ellisonbg" weight="1" />
+      <edge id="134" source="rdhyee" target="davclark" weight="3" />
+      <edge id="135" source="rdhyee" target="dwhly" weight="1" />
+      <edge id="136" source="rdhyee" target="ekansa" weight="1" />
+      <edge id="137" source="rdhyee" target="fperez_org" weight="1" />
+      <edge id="138" source="rdhyee" target="aculich" weight="2" />
+      <edge id="139" source="rdhyee" target="hypothes_is" weight="1" />
+      <edge id="140" source="rdhyee" target="davelester" weight="1" />
+      <edge id="141" source="rdhyee" target="ananelson" weight="4" />
+      <edge id="142" source="rdhyee" target="rgbkrk" weight="1" />
+      <edge id="143" source="rdhyee" target="DLabAtBerkeley" weight="2" />
+      <edge id="144" source="rdhyee" target="kevkoy" weight="2" />
+      <edge id="145" source="kevkoy" target="rdhyee" weight="1" />
+      <edge id="146" source="kevkoy" target="DLabAtBerkeley" weight="1" />
+      <edge id="147" source="kevkoy" target="davclark" weight="1" />
+      <edge id="148" source="kevkoy" target="_inundata" weight="2" />
+      <edge id="149" source="fperez_org" target="maxogden" weight="1" />
+      <edge id="150" source="fperez_org" target="ctitusbrown" weight="3" />
+      <edge id="151" source="fperez_org" target="_inundata" weight="1" />
+      <edge id="152" source="fperez_org" target="oceankidbilly" weight="1" />
+      <edge id="153" source="fperez_org" target="ellisonbg" weight="2" />
+      <edge id="154" source="fperez_org" target="NSF" weight="1" />
+      <edge id="155" source="fperez_org" target="numfocus" weight="1" />
+      <edge id="156" source="fperez_org" target="olgabot" weight="2" />
+      <edge id="157" source="fperez_org" target="BrunaLab" weight="1" />
+      <edge id="158" source="fperez_org" target="IPythonDev" weight="4" />
+      <edge id="159" source="fperez_org" target="WrightingApril" weight="3" />
+      <edge id="160" source="fperez_org" target="treycausey" weight="2" />
+      <edge id="161" source="fperez_org" target="modernscientist" weight="4" />
+      <edge id="162" source="fperez_org" target="fonnesbeck" weight="2" />
+      <edge id="163" source="fperez_org" target="rgbkrk" weight="1" />
+      <edge id="164" source="danielledai" target="MikeTaptich" weight="1" />
+      <edge id="165" source="danielledai" target="kvnweb" weight="2" />
+      <edge id="166" source="danielledai" target="mappingmashups" weight="4" />
+      <edge id="167" source="danielledai" target="SFBART" weight="1" />
+      <edge id="168" source="danielledai" target="enf" weight="2" />
+      <edge id="169" source="djproctor" target="chrismentzel" weight="1" />
+      <edge id="170" source="djproctor" target="aterrel" weight="1" />
+      <edge id="171" source="djproctor" target="Impactstory" weight="1" />
+      <edge id="172" source="djproctor" target="NSF" weight="2" />
+      <edge id="173" source="djproctor" target="juretriglav" weight="4" />
+      <edge id="174" source="djproctor" target="epistemographer" weight="1" />
+      <edge id="175" source="djproctor" target="npch" weight="1" />
+      <edge id="176" source="djproctor" target="DLabAtBerkeley" weight="1" />
+      <edge id="177" source="djproctor" target="DARPA" weight="1" />
+      <edge id="178" source="djproctor" target="kwbroman" weight="1" />
+    </edges>
+  </graph>
+</gexf>
